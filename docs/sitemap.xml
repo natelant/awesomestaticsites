@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://natelant.github.io/awesomestaticsites/post/another-post/</loc>
+    <lastmod>2019-09-25T13:31:01-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://natelant.github.io/awesomestaticsites/</loc>
+    <lastmod>2019-09-25T13:31:01-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://natelant.github.io/awesomestaticsites/post/</loc>
+    <lastmod>2019-09-25T13:31:01-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://natelant.github.io/awesomestaticsites/about/</loc>
+    <lastmod>2019-09-25T13:26:11-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://natelant.github.io/awesomestaticsites/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natelant.github.io/awesomestaticsites/post/hello-world/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natelant.github.io/awesomestaticsites/tags/</loc>
+  </url>
+  
+</urlset>
