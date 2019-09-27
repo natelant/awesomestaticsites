@@ -1,4 +1,4 @@
-baseurl = "https://natelant.github.io/awsomestaticsites/"
+baseurl = "https://natelant.github.io/awesomestaticsites/"
 languageCode = "en-us"
 title = "My First Awesome Static Site"
 publishDir = "docs"
