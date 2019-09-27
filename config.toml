@@ -1,7 +1,8 @@
 baseurl = "https://natelant.github.io/awesomestaticsites/"
 languageCode = "en-us"
 title = "My First Awesome Static Site"
-#publishDir: docs
+publishDir = "docs"
+
 # Define how many pages appear per site
 paginate = 10
 # Enable comments powered by Disqus by entering your disqus shortname
